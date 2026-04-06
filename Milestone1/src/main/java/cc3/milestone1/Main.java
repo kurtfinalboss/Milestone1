@@ -1,4 +1,5 @@
 package cc3.milestone1;
+
 import java.util.Scanner;
 
 public class Main {
